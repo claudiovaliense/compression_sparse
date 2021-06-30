@@ -8,7 +8,7 @@ git clone https://github.com/claudiovaliense/compression_sparse.git
 cd compression\_sparse
 
 # Install virtual enviroment and python 3.6
-sudo apt-get install virtualenv && apt-get install python3.6
+sudo apt-get install virtualenv && sudo apt-get install python3.6
 
 # Create virtual environment
 virtualenv -p python3.6 virtualenv
