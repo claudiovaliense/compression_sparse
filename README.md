@@ -1,7 +1,11 @@
-# compression_sparse
-Compression Sparse Representation
+# Tutorial execution
+Create a virtual environment to install all packages in their specific versions, which ensures greater success in executing the algorithm.
 
-# Create a virtual environment to install all packages in their specific versions, which ensures greater success in executing the algorithm.
+# Clone project
+git clone https://github.com/claudiovaliense/compression\_sparse.git
+
+# Project root
+cd compression\_sparse
 
 # Install virtual enviroment
 sudo apt-get install virtualenv
